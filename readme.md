@@ -1,4 +1,4 @@
-![홍보물](https://github.com/Taek-2/INT/blob/master/코딩동아리-홍보물-최종.jpg?raw=true)
+![홍보물](http://github.com/Taek-2/INT/blob/master/코딩동아리-홍보물-최종.jpg)
 
 # 동탄중앙고 코딩동아리 소개
 본 동아리는 프로그래밍에 대한 전반적인 역량을 증진시키고, 자신을 표현하는 개성적이고 독창적인 프로그램들을 직접 만들고 공유하는 동아리입니다.
